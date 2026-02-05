@@ -167,7 +167,7 @@ gsettings set org.gnome.desktop.interface gtk-theme "adw-gtk3-dark"
     <td>F7</td>
   </tr>
   <tr>
-    <td>Volume up</td>
+    <td>Volume Up</td>
     <td>F8</td>
   </tr>
   <tr>
