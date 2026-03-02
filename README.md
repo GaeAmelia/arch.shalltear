@@ -178,6 +178,10 @@ gsettings set org.gnome.desktop.interface gtk-theme "adw-gtk3-dark"
     <td>Unity</td>
     <td>Super + U</td>
   </tr>
+    <tr>
+    <td>Obsidian</td>
+    <td>Super + O</td>
+  </tr>
 </table>
 
 Scroll up or down using the mouse on the media module in Waybar to skip to the next track or move to the previous.
