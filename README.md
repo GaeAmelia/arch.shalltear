@@ -103,7 +103,7 @@ gsettings set org.gnome.desktop.interface gtk-theme "adw-gtk3-dark"
     <td>Super + R</td>
   </tr>
   <tr>
-    <td>Open Zen Browser</td>
+    <td>Open Vivaldi</td>
     <td>Super + B</td>
   </tr>
   <tr>
